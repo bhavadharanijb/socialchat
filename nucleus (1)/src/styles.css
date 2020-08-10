@@ -1,0 +1,185 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.homebar {
+  position: absolute;
+  width: 100%;
+  height: 142px;
+  left: 0px;
+  top: 0px;
+  background: #e84a5f;
+  text-align: center;
+}
+
+.head {
+  text-align: center;
+  font-family: "Cherry Swash", cursive;
+  font-size: 50px;
+  line-height: 21px;
+
+  color: #ffffff;
+}
+
+.profile {
+  border-radius: 50%;
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  left: 75px;
+  top: 161px;
+  bottom: 300px;
+  margin: 100px;
+}
+
+.username {
+  position: relative;
+  top: 600px;
+  left: 180px;
+  font-family: "Cherry Swash", cursive;
+  font-size: 50px;
+  line-height: 21px;
+  font-size: 32px;
+  line-height: 21px;
+}
+
+.post {
+  position: relative;
+  left: 750px;
+  top: 290px;
+  font-size: 25px;
+  margin: 10px;
+  font-family: "EB Garamond", serif;
+  color: #000000;
+}
+.following {
+  position: relative;
+  left: 900px;
+  margin: 10px;
+  margin-right: 25px;
+  margin-left: 5px;
+  top: 210px;
+  font-size: 25px;
+  font-family: "EB Garamond", serif;
+  color: #000000;
+}
+.followers {
+  position: relative;
+
+  margin: 10px;
+  left: 1080px;
+  top: 130px;
+  font-size: 25px;
+  font-family: "EB Garamond", serif;
+  color: #000000;
+}
+
+.bio {
+  position: relative;
+  width: 400px;
+  height: 200px;
+  left: 150px;
+  top: 400px;
+  background: #ffa5a5;
+  border-radius: 15px;
+}
+
+.biotext {
+  position: relative;
+  top: 10px;
+  margin: 10px;
+  left: 160px;
+  font-family: "Cherry Swash", cursive;
+  font-size: 50px;
+  line-height: 21px;
+  font-size: 32px;
+  line-height: 21px;
+}
+
+.biop {
+  position: relative;
+  top: 50px;
+  left: 100px;
+}
+.edit {
+  background: #e84a5f;
+  position: relative;
+  top: 150px;
+  left: 450px;
+}
+
+.postbar {
+  position: relative;
+  width: 100%;
+  height: 100px;
+  left: 0px;
+  border-radius: 15%;
+  top: 500px;
+  background: #e84a5f;
+  text-align: center;
+}
+
+.head2 {
+  position: relative;
+  top: 420px;
+  text-align: center;
+}
+
+.combox {
+  background: #ffa5a5;
+  border: 2px solid #000000;
+  box-sizing: border-box;
+  border-radius: 5px;
+  width: 223px;
+  height: 89px;
+  padding: 10px;
+  text-align: center;
+}
+
+.comhead {
+  font-family: "Cherry Swash", cursive;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 21px;
+
+  color: #000000;
+}
+
+.dictionary {
+  position: absolute;
+  top: 400px;
+  text-align: center;
+}
+
+.heart {
+  border-color: red;
+  font-size: 32px;
+}
+
+.term {
+  background-color: #f0f5f9;
+  border-radius: 15%;
+  margin: 80px;
+  height: 500px;
+  width: 500px;
+  padding: 20px;
+}
+.posts {
+  position: absolute;
+  left: 400px;
+}
+
+.comment {
+  text-align: center;
+  position: absolute;
+  right: 220px;
+}
+
+/* .delete
+{
+  background-color: #e84a5f;
+  height: 20pX;
+  width: 40px;
+  border-radius: 15px;
+} */
